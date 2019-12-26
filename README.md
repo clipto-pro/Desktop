@@ -29,3 +29,12 @@ Most of the functionality is based on user feedback and is improved by following
 - Community driven
 - No-Ads
 - Free
+
+![main_screen_fullscreen](main_screen_fullscreen.png)
+![main_screen_compact_1](main_screen_compact_1.png)
+![main_screen_compact_2.png](main_screen_compact_2.png)
+![settings_account](settings_account.png)
+![settings_appearance](settings_appearance.png)
+![main_filtered](main_filtered.png)
+![clip_info](clip_info.png)
+![clip_attachments](clip_attachments.png)
