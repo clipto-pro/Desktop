@@ -5,6 +5,7 @@ __Clipto__ is cross-platform, community driven Clipboard and Notes app with a fo
 - Desktop Releases: https://github.com/clipto-pro/Desktop/releases
 - Android Releases: https://github.com/clipto-pro/Android/releases
 - Android app on Google Play: https://play.google.com/store/apps/details?id=com.wb.clipboard.pro
+- Linux distributive: [![clipto](https://snapcraft.io//clipto/badge.svg)](https://snapcraft.io/clipto)
 
 The idea of the application is to make it easy, fast and convenient to work with any text and binary data, regardless of the platform where you use it.
 
